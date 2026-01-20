@@ -53,8 +53,8 @@ This is what the data looks like in the MongoDB database. It is completely unrea
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/financial-harmony.git
-    cd financial-harmony
+    git clone https://github.com/rvega1204/PHP-Symfony-Encrypted-Financial-Harmony.git
+    cd PHP-Symfony-Encrypted-Financial-Harmony
     ```
 
 2.  Install dependencies:
